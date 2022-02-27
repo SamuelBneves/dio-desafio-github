@@ -1,0 +1,10 @@
+Anotar aqui os comandos mais importantes do GIT
+
+mkdir -> cria pasta ou repositório
+git init -> inicia o repositório
+git config --global user.email "salumas@gmail.com" -> configura o git
+git config --global user.name Salumas -> Cria o nome do usuário
+git add * -> add o commit
+git commit -m "commit inicial" -> Nomeia e inicia o commit
+git status -> mostra como está a situação do repositório, se tem alteração
+mv stogonoff.md ./receitas/ -> move o aqruivo para outro diretório
